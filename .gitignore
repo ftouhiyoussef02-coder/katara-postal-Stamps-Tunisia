@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# Build output
+/dist
+/build
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Yarn Integrity file
+yarn-error.log
+
+# dotenv environment variable configuration file
+.env
+
+# IDEs
+.vscode/
+.idea/
